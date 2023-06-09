@@ -14,4 +14,7 @@ module.exports = ({ env }) => ({
       },
     },
   },
+  ckeditor: {
+    enable: true,
+  },
 });
